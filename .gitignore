@@ -1,0 +1,23 @@
+# Виртуальное окружение
+.venv/
+
+# Служебные файлы Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Кэш тестов и проверок
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Настройки PyCharm
+.idea/
+
+# Созданные отчёты
+/report.json
+/final_report.json
+/report.csv
+
+# Системные файлы macOS
+.DS_Store

@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-22T10:00:00Z","level":"INFO","source":"auth","message":"User logged in"}
+{"timestamp":"2026-10-22T10:01:00Z","level":"ERROR","source":"database","message":"Connection failed"}
+{"timestamp":"2026-10-22T10:02:00Z","level":"WARNING","source":"server","message":"High memory usage"}

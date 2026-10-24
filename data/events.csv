@@ -1,0 +1,4 @@
+timestamp,level,source,message
+2026-10-22T10:00:00Z,INFO,auth,User logged in
+2026-10-22T10:01:00Z,ERROR,database,Connection failed
+2026-10-22T10:02:00Z,WARNING,server,High memory usage
